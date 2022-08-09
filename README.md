@@ -11,7 +11,7 @@ I'm a DevOps Engineer, and a Student at AltSchool Africa(https://altschoolafrica
 - 🌱 I’m currently learning OSS Contribution, Linux, and Cloud Engineering/DevOps.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps Engineer, SRE, or Cloud Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing [funmilayofagoyinbo@gmail.com](mailto:funmilayofagoyinbo@gmail.com).
+- 📫 You can [view my resume](#) and contact me by emailing [mailto:funmilayofagoyinbo@gmail.com](funmilayofagoyinbo@gmail.com).
 
 ---
 
