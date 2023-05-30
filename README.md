@@ -19,7 +19,7 @@ I'm a DevOps Engineer, and a Student at [AltSchool Africa](https://altschoolafri
 - 💡 Fun fact: I was a pattern drafter and dressmaker. I love the fact that I could conceptualize designs, illustrate and sketch them, and create patterns for them. The technicality involved in putting all this together made it blissful for me. 
 - 🌱 I’m currently learning OSS Contribution, Linux, and Cloud Engineering/DevOps.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 👉 Read my articles in [Adefunmi's CloudView](https://funmifagoyinbo.hashnode.dev/) on Hashnode.
+- 👉 Read my articles here at [Adefunmi's CloudView](https://funmifagoyinbo.hashnode.dev/) on Hashnode.
 - 💼 Job interests: DevOps Engineer, SRE, or Cloud Engineer.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1ZJu3lAGMv_F14VWLtx02M8YX3ZQ3bRO0/view?usp=sharing) and contact me by emailing [funmilayofagoyinbo@gmail.com](mailto://funmilayofagoyinbo@gmail.com).
 
