@@ -11,17 +11,17 @@ Hello there; Welcome 👋🏾
   <img src="https://komarev.com/ghpvc/?username=Adephumie&style=plastic&color=blue" alt="Profile View Counter"/>
 </div>
 
-I'm a DevOps Engineer, and a Student at [AltSchool Africa](https://altschoolafrica.com/schools/engineering). I am passionate about sharing knowledge, documentation, and Cloud engineering. I build useful [open-source projects](https://github.com/Adephumie), and build technical communities.
+I'm a DevOps Engineer and a Student at [AltSchool Africa](https://altschoolafrica.com/schools/engineering). I am passionate about sharing knowledge, documentation, and Cloud engineering. I build useful [open-source projects](https://github.com/Adephumie), and build technical communities.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I was a pattern drafter and dressmaker. I love the fact that I could conceptualize designs, illustrate and sketch them, and create patterns for them. The technicality involved in putting all this together made it blissful for me. 
 - 🌱 I’m currently learning OSS Contribution, Linux, and Cloud Engineering/DevOps.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with Open-source projects, hackathons, internships, and entry-level opportunities.
 - 👉 Read my articles here at [Adefunmi's CloudView](https://funmifagoyinbo.hashnode.dev/) on Hashnode.
 - 💼 Job interests: DevOps Engineer, SRE, or Cloud Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1ZJu3lAGMv_F14VWLtx02M8YX3ZQ3bRO0/view?usp=sharing) and contact me by emailing [funmilayofagoyinbo@gmail.com](mailto://funmilayofagoyinbo@gmail.com).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1JZnzp45Ttitd6hcsFgpoWTZyT0ByG_g1/view?usp=sharing) and contact me by emailing [funmilayofagoyinbo@gmail.com](mailto://funmilayofagoyinbo@gmail.com).
 
 ---
 
