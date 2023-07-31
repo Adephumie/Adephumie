@@ -21,7 +21,7 @@ I'm a DevOps Engineer and a Student at [AltSchool Africa](https://altschoolafric
 - 😊 I’m looking for help with Open-source projects, hackathons, internships, and entry-level opportunities.
 - 👉 Read my articles here at [Adefunmi's CloudView](https://funmifagoyinbo.hashnode.dev/) on Hashnode.
 - 💼 Job interests: DevOps Engineer, SRE, or Cloud Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1JZnzp45Ttitd6hcsFgpoWTZyT0ByG_g1/view?usp=sharing) and contact me by emailing [funmilayofagoyinbo@gmail.com](mailto://funmilayofagoyinbo@gmail.com).
+- 📫 You can [view my resume](https://docs.google.com/document/d/1i6rZRiQfpHuXZJpNXyI68D_2mFsqh6H_ep-BVLUoB-s/edit?usp=sharing) and contact me by emailing [funmilayofagoyinbo@gmail.com](mailto://funmilayofagoyinbo@gmail.com).
 
 ---
 
