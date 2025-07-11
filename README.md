@@ -11,17 +11,17 @@ Hello there; Welcome 👋🏾
   <img src="https://komarev.com/ghpvc/?username=Adephumie&style=plastic&color=blue" alt="Profile View Counter"/>
 </div>
 
-Click the rectangles above to learn more about me, including my other projects on Gitlab. 
+Click the tabs above to learn more about me, including my other projects on Gitlab. 
 I'm an aspiring DevOps/Cloud Engineer and a Student at [British Columbia Institute of Technology](https://www.bcit.ca/programs/computer-information-systems-administration-diploma-full-time-1930dipma/). I am passionate about learning, sharing knowledge, documentation, and Cloud engineering. I build useful [open-source projects](https://github.com/Adephumie) and technical communities.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I was a pattern drafter and dressmaker. I love that I could conceptualize designs, illustrate and sketch them, and create patterns. The technicality involved in putting all this together made it blissful for me. 
-- 🌱 I’m currently studying Computer Information Systems Administration at BCIT, learning Networking, Linux, and Cybersecurity, and how I relate them all to Cloud Technology.
+- 🌱 I’m currently studying Computer Information Systems Administration at British Columbia Institute of Technology (BCIT), where I'm gaining hands-on experience in Networking, Linux and Windows Administration, Cybersecurity, and Cloud Technology.
 - 😊 I’m looking for help with Open-source projects, hackathons, internships, and entry-level opportunities.
 - 👉 Read my articles here at [Adefunmi's CloudView](https://funmifagoyinbo.hashnode.dev/) on Hashnode.
-- 💼 Job interests: DevOps Engineering, Network Engineering, Cloud Engineering.
+- 💼 Job interests: DevOps Engineering, Cloud Engineering, DevSecOps.
 - 📫 You can contact me by emailing [funmilayofagoyinbo@gmail.com](mailto://funmilayofagoyinbo@gmail.com).
 
 ---
